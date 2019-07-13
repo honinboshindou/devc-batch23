@@ -2,4 +2,4 @@
 
 Hi HUmans!
 
-This is used to learn javascript
+This is used to learn HTML, CSS and javascript
